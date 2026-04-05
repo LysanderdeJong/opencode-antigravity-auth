@@ -15,7 +15,8 @@ const projectContextPendingCache = new Map<string, Promise<ProjectContextResult>
 
 const CODE_ASSIST_METADATA = {
   ideType: "ANTIGRAVITY",
-  platform: process.platform === "win32" ? "WINDOWS" : "MACOS",
+  // loadCodeAssist/onboardUser currently reject concrete platform values.
+  platform: "PLATFORM_UNSPECIFIED",
   pluginType: "GEMINI",
 } as const;
 
