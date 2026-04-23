@@ -24,7 +24,7 @@ OpenCode uses `~/.config/opencode/` on **all platforms** including Windows.
 ## Quick Fixes
 
 ### Auth problems
-Delete the token file and re-login:
+Delete the accounts file and re-authenticate:
 ```bash
 rm ~/.config/opencode/antigravity-accounts.json
 opencode auth login
