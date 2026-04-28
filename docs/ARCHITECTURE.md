@@ -1,6 +1,6 @@
 # Architecture Guide
 
-**Last Updated:** December 2025
+**Last Updated:** April 2026
 
 This document explains how the Antigravity plugin works, including the request/response flow, Claude-specific handling, and session recovery.
 

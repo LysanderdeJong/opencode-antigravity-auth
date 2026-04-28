@@ -24,7 +24,7 @@ Enable Opencode to authenticate against **Antigravity** (Google's IDE) via OAuth
 <summary><b>⚠️ Terms of Service Warning — Read Before Installing</b></summary>
 
 > [!CAUTION]
-> Using this plugin (and any proxy for antgravity) violate Google's Terms of Service. A number of users have reported their Google accounts being **banned** or **shadow-banned** (restricted access without explicit notification).
+> Using this plugin (and any proxy for Antigravity) violates Google's Terms of Service. A number of users have reported their Google accounts being **banned** or **shadow-banned** (restricted access without explicit notification).
 >
 > **By using this plugin, you acknowledge:**
 > - This is an unofficial tool not endorsed by Google
@@ -257,7 +257,7 @@ For details on load balancing, dual quota pools, and account storage, see [docs/
 
 ---
 
-## Troubleshoot
+## Troubleshooting
 
 > **Quick Reset**: Most issues can be resolved by deleting `~/.config/opencode/antigravity-accounts.json` and running `opencode auth login` again.
 
@@ -677,7 +677,7 @@ See the full [Troubleshooting Guide](docs/TROUBLESHOOTING.md) for solutions to c
 
 ## Support
 
-If this plugin helps you, consider supporting its maintenance:
+If this plugin saves you time, consider supporting its development:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S81QBOIR)
 

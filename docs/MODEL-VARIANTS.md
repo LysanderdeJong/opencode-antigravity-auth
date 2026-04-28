@@ -1,6 +1,6 @@
 # Model Variants
 
-OpenCode's variant system allows you to configure thinking budget dynamically instead of defining separate models for each thinking level.
+OpenCode's variant system lets you configure the thinking budget dynamically without defining separate models for each thinking level.
 
 ---
 
